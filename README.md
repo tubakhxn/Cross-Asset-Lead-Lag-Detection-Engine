@@ -1,6 +1,7 @@
 ## dev/creator = tubakhxn
 
 # Cross-Asset Lead-Lag Detection Engine
+<img width="2385" height="1398" alt="image" src="https://github.com/user-attachments/assets/dc5a864c-a40b-4d59-a3e2-7639561e54bc" />
 
 This project is a professional quant research tool for identifying dynamic lead-lag relationships and causality structures across multiple financial assets. It is designed for statistical arbitrage, quant research, and advanced financial analytics.
 
@@ -29,3 +30,4 @@ This project is a professional quant research tool for identifying dynamic lead-
 
 ---
 For any questions or improvements, contact the creator: **tubakhxn**
+
